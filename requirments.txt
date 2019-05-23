@@ -1,4 +1,7 @@
 Django==2.2.1
+docopt==0.6.2
+inflect==2.1.0
+num2words==0.5.10
 Pillow==6.0.0
 pytz==2019.1
 sqlparse==0.3.0
